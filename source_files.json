@@ -1,0 +1,6 @@
+[
+    "_init.js",
+    "canvas/createResourceCanvas.js",
+    "canvas/error.png",
+    "canvas/addAnimationTexture.js"
+]
