@@ -1,0 +1,10 @@
+{
+    "description": [
+        "Resource libary extension for JLIB.",
+        "This module has all the resource handeling.",
+        "In the future we will also support webgl, but this is not possible right now."
+    ],
+    "requirements": [
+        {"name": "JRENDER", "version": ["v1.00"]}
+    ]
+}
